@@ -1,6 +1,6 @@
 # lita-starbucks
 
-TODO: Add a description of the plugin.
+You want to go to starbucks or poke fun of those that do?
 
 ## Installation
 
@@ -12,8 +12,8 @@ gem "lita-starbucks"
 
 ## Configuration
 
-TODO: Describe any configuration attributes the plugin exposes.
+nope
 
 ## Usage
 
-TODO: Describe the plugin's features and how to use them.
+<botname> starbucks me

@@ -1,12 +1,12 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-starbucks"
   spec.version       = "0.1.0"
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
-  spec.description   = "TODO: Add a description"
-  spec.summary       = "TODO: Add a summary"
-  spec.homepage      = "TODO: Add a homepage"
-  spec.license       = "TODO: Add a license"
+  spec.authors       = ["Jimmy Briggs aka TigerJ"]
+  spec.email         = ["jimmy.briggs.code@gmail.com"]
+  spec.description   = "This is a gem which suggests a trip to Starbucks and pokes a little fun at starbucks"
+  spec.summary       = "summary"
+  spec.homepage      = "https://twitter.com/stalkjimmy"
+  spec.license       = "do whatever"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 
   spec.files         = `git ls-files`.split($/)
