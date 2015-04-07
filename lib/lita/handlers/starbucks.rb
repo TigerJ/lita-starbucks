@@ -5,7 +5,7 @@ module Lita
         "starbucks all" => "informs @all members of the room you intend to go to starbucks"
       })
       def Starbucks(response)
-        response.reply "https://s3.amazonaws.com/devbriggs.com/starbucks/#{rand(1..3)}.jpg @all Starbucks Time"
+        response.reply "@all Starbucks Time https://s3.amazonaws.com/devbriggs.com/starbucks/#{rand(1..3)}.jpg"
       end
     end
     
