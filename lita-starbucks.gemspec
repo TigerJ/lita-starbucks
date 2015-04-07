@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-starbucks"
-  spec.version       = "0.1.0"
+  spec.version       = "0.1.1"
   spec.authors       = ["Jimmy Briggs aka TigerJ"]
   spec.email         = ["jimmy.briggs.code@gmail.com"]
   spec.description   = "This is a gem which suggests a trip to Starbucks and pokes a little fun at starbucks"
