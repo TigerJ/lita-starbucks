@@ -16,4 +16,4 @@ nope
 
 ## Usage
 
-<botname> starbucks me
+<botname> starbucks all
